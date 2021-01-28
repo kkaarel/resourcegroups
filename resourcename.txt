@@ -1,0 +1,5 @@
+datafactory
+stg
+databricks
+logicapp
+vnetpriv
